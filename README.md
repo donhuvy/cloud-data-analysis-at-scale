@@ -1,5 +1,9 @@
 # Data Analysis at Scale in the Cloud
 
+https://noahgift.github.io/cloud-data-analysis-at-scale/topics/end-of-moores-law.html
+
+https://learning.oreilly.com/videos/python-gpu-programming/61122021VIDEOPAIML/61122021VIDEOPAIML-c1_s0/
+
 Course taught at [Duke MIDS](https://datascience.duke.edu/noah-gift), Spring 2020-2022 by [Noah Gift](https://www.noahgift.com/).  
 * This is the [course syllabus](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus).
 * These are the [projects in the course](https://noahgift.github.io/cloud-data-analysis-at-scale/projects)
